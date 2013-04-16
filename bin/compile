@@ -188,7 +188,7 @@ download_jruby_and_install_default_gems
 copy_jruby_to_build
 bundle_install_with_cache
 
-create_database_yml
+#create_database_yml
 precompile_assets
 
 # install_rails_log_stdout
